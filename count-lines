@@ -1,0 +1,2 @@
+#!/bin/sh
+cloc . --fullpath --not-match-d="vendor|data|catalog|Kubernetes-addons" --not-match-f="package-lock.json|vdr.xml"
