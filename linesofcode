@@ -12,7 +12,7 @@ JSON                            134           3158              0          44327
 SQL                              65            225             58          21478
 Markdown                        232           3659              0           9190
 YAML                            235            827            802           9099
-HCL                             144           1107            153           6215
+HCL (This is terraform)!        144           1107            153           6215
 CSS                               5            348             13           3241
 Protocol Buffers                 42            665           1726           2589
 make                             68            597             43           2517
